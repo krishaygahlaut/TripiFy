@@ -26,13 +26,13 @@ Plan, manage, and get reminders for your trips — all in one sleek iOS app.
 
 
 <p float="left">
-  <img src="Screenshots/1.png" width="30%" />
-  <img src="Screenshots/2.png" width="30%" />
-  <img src="Screenshots/3.png" width="30%" />
-  <img src="Screenshots/4.png" width="30%" />
-  <img src="Screenshots/5.png" width="30%" />
-  <img src="Screenshots/6.png" width="30%" />
-  <img src="Screenshots/7.png" width="30%" />
+  <img src="Screenshots/1.PNG" width="30%" />
+  <img src="Screenshots/2.PNG" width="30%" />
+  <img src="Screenshots/3.PNG" width="30%" />
+  <img src="Screenshots/4.PNG" width="30%" />
+  <img src="Screenshots/5.PNG" width="30%" />
+  <img src="Screenshots/6.PNG" width="30%" />
+  <img src="Screenshots/7.PNG" width="30%" />
 </p>
 ---
 
