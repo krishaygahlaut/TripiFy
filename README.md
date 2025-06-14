@@ -31,7 +31,6 @@ Plan, manage, and get reminders for your trips — all in one sleek iOS app.
   <img src="Screenshots/2.png" width="30%" />
   <img src="Screenshots/3.png" width="30%" />
 </p>
-
 ---
 
 ## 🛠 Tech Stack
