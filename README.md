@@ -22,7 +22,10 @@ Plan, manage, and get reminders for your trips — all in one sleek iOS app.
 ---
 
 ## 🖼️ Screenshots
-
+![TripiFy Demo](demo.gif)
+<p align="center">
+  <img src="demo.gif" width="600" />
+</p>
 > Upload your screenshots in `/Screenshots` folder and embed them like this:
 
 <p float="left">
